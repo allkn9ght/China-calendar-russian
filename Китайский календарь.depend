@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696596008 source:d:\Курсы\Китайский календарь\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+
